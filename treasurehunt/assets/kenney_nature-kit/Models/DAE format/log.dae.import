@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://denec1pogl4d4"
-path="res://.godot/imported/log.dae-774aa40fcba3dae682f3e30045844bb5.scn"
+path="res://.godot/imported/log.dae-27303349c845d15f092c7e5cf6c0e85b.scn"
 
 [deps]
 
-source_file="res://kenney_nature-kit/Models/DAE format/log.dae"
-dest_files=["res://.godot/imported/log.dae-774aa40fcba3dae682f3e30045844bb5.scn"]
+source_file="res://assets/kenney_nature-kit/Models/DAE format/log.dae"
+dest_files=["res://.godot/imported/log.dae-27303349c845d15f092c7e5cf6c0e85b.scn"]
 
 [params]
 

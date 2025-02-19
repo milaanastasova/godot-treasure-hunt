@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://doqnixidu6vah"
-path="res://.godot/imported/statue_ring.glb-2a34d383ab89e5b955387b1fe3b78e50.scn"
+path="res://.godot/imported/statue_ring.glb-96af6f1aa233b4fd5a0f4cb336ea6f56.scn"
 
 [deps]
 
-source_file="res://kenney_nature-kit/Models/GLTF format/statue_ring.glb"
-dest_files=["res://.godot/imported/statue_ring.glb-2a34d383ab89e5b955387b1fe3b78e50.scn"]
+source_file="res://assets/kenney_nature-kit/Models/GLTF format/statue_ring.glb"
+dest_files=["res://.godot/imported/statue_ring.glb-96af6f1aa233b4fd5a0f4cb336ea6f56.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://vcd3sgo3upq7"
-path="res://.godot/imported/cliff_cornerLarge_stone.dae-9846411adf41670ff338fab493b17186.scn"
+path="res://.godot/imported/cliff_cornerLarge_stone.dae-07691e32a592d06b5cc6436b383701de.scn"
 
 [deps]
 
-source_file="res://kenney_nature-kit/Models/DAE format/cliff_cornerLarge_stone.dae"
-dest_files=["res://.godot/imported/cliff_cornerLarge_stone.dae-9846411adf41670ff338fab493b17186.scn"]
+source_file="res://assets/kenney_nature-kit/Models/DAE format/cliff_cornerLarge_stone.dae"
+dest_files=["res://.godot/imported/cliff_cornerLarge_stone.dae-07691e32a592d06b5cc6436b383701de.scn"]
 
 [params]
 

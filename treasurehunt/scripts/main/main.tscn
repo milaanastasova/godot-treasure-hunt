@@ -71,7 +71,7 @@ size = Vector3(17, 1, 15)
 radius = 10.0
 
 [sub_resource type="LabelSettings" id="LabelSettings_6o48d"]
-font_size = 45
+font_size = 40
 
 [sub_resource type="LabelSettings" id="LabelSettings_i71wl"]
 font_size = 60
@@ -101,7 +101,7 @@ mesh = SubResource("BoxMesh_ntfqu")
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.5, 0.005, -0.19)
 shape = SubResource("BoxShape3D_bao2j")
 
-[node name="ProtoController" parent="." instance=ExtResource("3_5237b")]
+[node name="PlayerController" parent="." instance=ExtResource("3_5237b")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.11, 2.69459, -2.20948)
 can_freefly = false
 input_left = "ui_left"
@@ -110,10 +110,10 @@ input_forward = "ui_up"
 input_back = "ui_down"
 input_jump = "ui_accept"
 
-[node name="Area3D" type="Area3D" parent="ProtoController"]
+[node name="Area3D" type="Area3D" parent="PlayerController"]
 collision_mask = 2
 
-[node name="CollisionShape3D" type="CollisionShape3D" parent="ProtoController/Area3D"]
+[node name="CollisionShape3D" type="CollisionShape3D" parent="PlayerController/Area3D"]
 shape = SubResource("SphereShape3D_vk8j7")
 
 [node name="ground_pathRocks" parent="." instance=ExtResource("4_xy2qq")]
@@ -267,24 +267,23 @@ offset_bottom = 40.0
 
 [node name="TreasuresLeftLabel" type="Label" parent="CanvasLayer/Control"]
 layout_mode = 0
-offset_left = 1369.0
-offset_top = 94.0
-offset_right = 1718.0
-offset_bottom = 157.0
-text = "Treasures left: 3"
+offset_left = 1387.0
+offset_top = 73.0
+offset_right = 1843.0
+offset_bottom = 136.0
+text = "Најдени богатства: 0/3"
 label_settings = SubResource("LabelSettings_6o48d")
 
 [node name="TimerLabel" type="Label" parent="CanvasLayer/Control"]
 layout_mode = 0
-offset_left = 176.0
-offset_top = 107.0
-offset_right = 358.0
-offset_bottom = 170.0
-text = "Time: 60"
+offset_left = 137.0
+offset_top = 77.0
+offset_right = 600.0
+offset_bottom = 140.0
+text = "Преостанато време: 60"
 label_settings = SubResource("LabelSettings_6o48d")
 
 [node name="GameOverScreen" type="ColorRect" parent="CanvasLayer/Control"]
-visible = false
 layout_mode = 0
 offset_right = 1920.0
 offset_bottom = 1080.0
@@ -292,11 +291,11 @@ color = Color(0, 0, 0, 0.8)
 
 [node name="GameOverLabel" type="Label" parent="CanvasLayer/Control/GameOverScreen"]
 layout_mode = 0
-offset_left = 810.0
-offset_top = 503.0
-offset_right = 1149.0
-offset_bottom = 586.0
-text = "GAME WON"
+offset_left = 390.0
+offset_top = 437.0
+offset_right = 1585.0
+offset_bottom = 606.0
+text = "Победивте!! Притиснете R за нова игра"
 label_settings = SubResource("LabelSettings_i71wl")
 
 [node name="Timer" type="Timer" parent="."]

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://brptgyd8ry853"
-path="res://.godot/imported/canoe_paddle.dae-7b7ba4fd64d844c087e18ca83c0d44bb.scn"
+path="res://.godot/imported/canoe_paddle.dae-69d0f69cb02c90a3a4304f8d0ea3779f.scn"
 
 [deps]
 
-source_file="res://kenney_nature-kit/Models/DAE format/canoe_paddle.dae"
-dest_files=["res://.godot/imported/canoe_paddle.dae-7b7ba4fd64d844c087e18ca83c0d44bb.scn"]
+source_file="res://assets/kenney_nature-kit/Models/DAE format/canoe_paddle.dae"
+dest_files=["res://.godot/imported/canoe_paddle.dae-69d0f69cb02c90a3a4304f8d0ea3779f.scn"]
 
 [params]
 

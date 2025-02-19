@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://btyepitynges"
-path="res://.godot/imported/log_stack.dae-d879755fb141c061280535ee66d6f2bc.scn"
+path="res://.godot/imported/log_stack.dae-d52d93c243c473a1f7d5504294231f62.scn"
 
 [deps]
 
-source_file="res://kenney_nature-kit/Models/DAE format/log_stack.dae"
-dest_files=["res://.godot/imported/log_stack.dae-d879755fb141c061280535ee66d6f2bc.scn"]
+source_file="res://assets/kenney_nature-kit/Models/DAE format/log_stack.dae"
+dest_files=["res://.godot/imported/log_stack.dae-d52d93c243c473a1f7d5504294231f62.scn"]
 
 [params]
 

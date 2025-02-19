@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c4rrqajlfuiem"
-path="res://.godot/imported/crops_wheatStageA.dae-f75b70626f6a8385fcd84f73e11daf69.scn"
+path="res://.godot/imported/crops_wheatStageA.dae-636ff7111c850a6dad1e32bc1799ec19.scn"
 
 [deps]
 
-source_file="res://kenney_nature-kit/Models/DAE format/crops_wheatStageA.dae"
-dest_files=["res://.godot/imported/crops_wheatStageA.dae-f75b70626f6a8385fcd84f73e11daf69.scn"]
+source_file="res://assets/kenney_nature-kit/Models/DAE format/crops_wheatStageA.dae"
+dest_files=["res://.godot/imported/crops_wheatStageA.dae-636ff7111c850a6dad1e32bc1799ec19.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://depurq4nes1jc"
-path="res://.godot/imported/ground_pathCross.dae-6ed6bc67dee0b746cb00986684371bbd.scn"
+path="res://.godot/imported/ground_pathCross.dae-7e5d37a09a27df0e6be1e625b1d80296.scn"
 
 [deps]
 
-source_file="res://kenney_nature-kit/Models/DAE format/ground_pathCross.dae"
-dest_files=["res://.godot/imported/ground_pathCross.dae-6ed6bc67dee0b746cb00986684371bbd.scn"]
+source_file="res://assets/kenney_nature-kit/Models/DAE format/ground_pathCross.dae"
+dest_files=["res://.godot/imported/ground_pathCross.dae-7e5d37a09a27df0e6be1e625b1d80296.scn"]
 
 [params]
 

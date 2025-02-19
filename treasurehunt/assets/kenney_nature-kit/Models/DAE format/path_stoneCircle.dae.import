@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://c7gwre1dd5vgm"
-path="res://.godot/imported/path_stoneCircle.dae-1a0a2d874468dff55c986542f6e4ebb6.scn"
+path="res://.godot/imported/path_stoneCircle.dae-248291214065308050be98d83b220a20.scn"
 
 [deps]
 
-source_file="res://kenney_nature-kit/Models/DAE format/path_stoneCircle.dae"
-dest_files=["res://.godot/imported/path_stoneCircle.dae-1a0a2d874468dff55c986542f6e4ebb6.scn"]
+source_file="res://assets/kenney_nature-kit/Models/DAE format/path_stoneCircle.dae"
+dest_files=["res://.godot/imported/path_stoneCircle.dae-248291214065308050be98d83b220a20.scn"]
 
 [params]
 

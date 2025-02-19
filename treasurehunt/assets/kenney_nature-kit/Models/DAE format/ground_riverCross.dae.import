@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ca8irp33hmay4"
-path="res://.godot/imported/ground_riverCross.dae-7adcc4de3c07c983a14439a1f1f99f92.scn"
+path="res://.godot/imported/ground_riverCross.dae-c9baf9483be8b42e3a40120841dd0381.scn"
 
 [deps]
 
-source_file="res://kenney_nature-kit/Models/DAE format/ground_riverCross.dae"
-dest_files=["res://.godot/imported/ground_riverCross.dae-7adcc4de3c07c983a14439a1f1f99f92.scn"]
+source_file="res://assets/kenney_nature-kit/Models/DAE format/ground_riverCross.dae"
+dest_files=["res://.godot/imported/ground_riverCross.dae-c9baf9483be8b42e3a40120841dd0381.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cfxlsqt181ud0"
-path="res://.godot/imported/ground_pathRocks.dae-6a6446814908671c36dd80cea710af29.scn"
+path="res://.godot/imported/ground_pathRocks.dae-fc479f336e1cc492b857e07814b192ca.scn"
 
 [deps]
 
-source_file="res://kenney_nature-kit/Models/DAE format/ground_pathRocks.dae"
-dest_files=["res://.godot/imported/ground_pathRocks.dae-6a6446814908671c36dd80cea710af29.scn"]
+source_file="res://assets/kenney_nature-kit/Models/DAE format/ground_pathRocks.dae"
+dest_files=["res://.godot/imported/ground_pathRocks.dae-fc479f336e1cc492b857e07814b192ca.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dl6ituob7ifow"
-path="res://.godot/imported/crops_leafsStageA.dae-a598f259522e6683bc4bfad063b13c29.scn"
+path="res://.godot/imported/crops_leafsStageA.dae-01b1eddae81585d4758fbf4582cc239e.scn"
 
 [deps]
 
-source_file="res://kenney_nature-kit/Models/DAE format/crops_leafsStageA.dae"
-dest_files=["res://.godot/imported/crops_leafsStageA.dae-a598f259522e6683bc4bfad063b13c29.scn"]
+source_file="res://assets/kenney_nature-kit/Models/DAE format/crops_leafsStageA.dae"
+dest_files=["res://.godot/imported/crops_leafsStageA.dae-01b1eddae81585d4758fbf4582cc239e.scn"]
 
 [params]
 

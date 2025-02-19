@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://b6kmo4x8ibyp5"
-path="res://.godot/imported/bed.glb-c54b8940378e76c07fb2026332ffa8d1.scn"
+path="res://.godot/imported/bed.glb-28373c2706b1e20923bad6c29895a722.scn"
 
 [deps]
 
-source_file="res://kenney_nature-kit/Models/GLTF format/bed.glb"
-dest_files=["res://.godot/imported/bed.glb-c54b8940378e76c07fb2026332ffa8d1.scn"]
+source_file="res://assets/kenney_nature-kit/Models/GLTF format/bed.glb"
+dest_files=["res://.godot/imported/bed.glb-28373c2706b1e20923bad6c29895a722.scn"]
 
 [params]
 

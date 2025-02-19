@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://ddmw1alrorpca"
-path="res://.godot/imported/bridge_stone.glb-ff8da11db5d56696af24837991046a4f.scn"
+path="res://.godot/imported/bridge_stone.glb-2797cd2cc6f24e95ab50a04560f0bcd2.scn"
 
 [deps]
 
-source_file="res://kenney_nature-kit/Models/GLTF format/bridge_stone.glb"
-dest_files=["res://.godot/imported/bridge_stone.glb-ff8da11db5d56696af24837991046a4f.scn"]
+source_file="res://assets/kenney_nature-kit/Models/GLTF format/bridge_stone.glb"
+dest_files=["res://.godot/imported/bridge_stone.glb-2797cd2cc6f24e95ab50a04560f0bcd2.scn"]
 
 [params]
 

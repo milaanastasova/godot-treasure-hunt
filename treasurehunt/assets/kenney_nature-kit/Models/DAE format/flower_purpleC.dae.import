@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://e0olckh8m6ta"
-path="res://.godot/imported/flower_purpleC.dae-b420d22a0ac0e55ce67a986154415f6e.scn"
+path="res://.godot/imported/flower_purpleC.dae-3129e84db5870d249474bb4628ba2082.scn"
 
 [deps]
 
-source_file="res://kenney_nature-kit/Models/DAE format/flower_purpleC.dae"
-dest_files=["res://.godot/imported/flower_purpleC.dae-b420d22a0ac0e55ce67a986154415f6e.scn"]
+source_file="res://assets/kenney_nature-kit/Models/DAE format/flower_purpleC.dae"
+dest_files=["res://.godot/imported/flower_purpleC.dae-3129e84db5870d249474bb4628ba2082.scn"]
 
 [params]
 

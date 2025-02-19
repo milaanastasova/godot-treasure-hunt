@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://boohu8mvkd82d"
-path="res://.godot/imported/bridge_stoneRoundNarrow.dae-9cbbb519b20b3485d36d5e63f2fe1755.scn"
+path="res://.godot/imported/bridge_stoneRoundNarrow.dae-bdcf01e14ac145f66d0990d11413ed8b.scn"
 
 [deps]
 
-source_file="res://kenney_nature-kit/Models/DAE format/bridge_stoneRoundNarrow.dae"
-dest_files=["res://.godot/imported/bridge_stoneRoundNarrow.dae-9cbbb519b20b3485d36d5e63f2fe1755.scn"]
+source_file="res://assets/kenney_nature-kit/Models/DAE format/bridge_stoneRoundNarrow.dae"
+dest_files=["res://.godot/imported/bridge_stoneRoundNarrow.dae-bdcf01e14ac145f66d0990d11413ed8b.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://gjsuwp2j4qjf"
-path="res://.godot/imported/cactus_tall.glb-978f39ed7a77ef55b26360d27bb887b1.scn"
+path="res://.godot/imported/cactus_tall.glb-7c79012f9af81680d2abd1bae29154ac.scn"
 
 [deps]
 
-source_file="res://kenney_nature-kit/Models/GLTF format/cactus_tall.glb"
-dest_files=["res://.godot/imported/cactus_tall.glb-978f39ed7a77ef55b26360d27bb887b1.scn"]
+source_file="res://assets/kenney_nature-kit/Models/GLTF format/cactus_tall.glb"
+dest_files=["res://.godot/imported/cactus_tall.glb-7c79012f9af81680d2abd1bae29154ac.scn"]
 
 [params]
 

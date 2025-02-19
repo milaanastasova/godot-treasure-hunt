@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dwuyhbyxw687t"
-path="res://.godot/imported/lily_large.dae-3c9ac362f4fe5c9314ac98be55ffd55e.scn"
+path="res://.godot/imported/lily_large.dae-ad34bf3679d9e742b5312391901987b6.scn"
 
 [deps]
 
-source_file="res://kenney_nature-kit/Models/DAE format/lily_large.dae"
-dest_files=["res://.godot/imported/lily_large.dae-3c9ac362f4fe5c9314ac98be55ffd55e.scn"]
+source_file="res://assets/kenney_nature-kit/Models/DAE format/lily_large.dae"
+dest_files=["res://.godot/imported/lily_large.dae-ad34bf3679d9e742b5312391901987b6.scn"]
 
 [params]
 

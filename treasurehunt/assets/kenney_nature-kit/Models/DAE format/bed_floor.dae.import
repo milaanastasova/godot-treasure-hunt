@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://dk6ae1f62k02q"
-path="res://.godot/imported/bed_floor.dae-9a56555f0058287f4b9f6f5beb1a7fb0.scn"
+path="res://.godot/imported/bed_floor.dae-a0ae28cf74cce5fc7d658dc2e0cce6ed.scn"
 
 [deps]
 
-source_file="res://kenney_nature-kit/Models/DAE format/bed_floor.dae"
-dest_files=["res://.godot/imported/bed_floor.dae-9a56555f0058287f4b9f6f5beb1a7fb0.scn"]
+source_file="res://assets/kenney_nature-kit/Models/DAE format/bed_floor.dae"
+dest_files=["res://.godot/imported/bed_floor.dae-a0ae28cf74cce5fc7d658dc2e0cce6ed.scn"]
 
 [params]
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bx8tmcyl2y4q7"
-path="res://.godot/imported/plant_bushTriangle.dae-8e688a4f36f8b7cb23b866476e5e90d5.scn"
+path="res://.godot/imported/plant_bushTriangle.dae-5fc697821c19ac280d2c8af61b85ae6d.scn"
 
 [deps]
 
-source_file="res://kenney_nature-kit/Models/DAE format/plant_bushTriangle.dae"
-dest_files=["res://.godot/imported/plant_bushTriangle.dae-8e688a4f36f8b7cb23b866476e5e90d5.scn"]
+source_file="res://assets/kenney_nature-kit/Models/DAE format/plant_bushTriangle.dae"
+dest_files=["res://.godot/imported/plant_bushTriangle.dae-5fc697821c19ac280d2c8af61b85ae6d.scn"]
 
 [params]
 

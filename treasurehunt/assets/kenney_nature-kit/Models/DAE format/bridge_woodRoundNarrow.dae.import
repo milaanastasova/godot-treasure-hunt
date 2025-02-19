@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://d3t2dlda8wkbt"
-path="res://.godot/imported/bridge_woodRoundNarrow.dae-465dd961cb427bb48fdde340445bd0b9.scn"
+path="res://.godot/imported/bridge_woodRoundNarrow.dae-a83a3ad6f5c68da0707dfec68b017795.scn"
 
 [deps]
 
-source_file="res://kenney_nature-kit/Models/DAE format/bridge_woodRoundNarrow.dae"
-dest_files=["res://.godot/imported/bridge_woodRoundNarrow.dae-465dd961cb427bb48fdde340445bd0b9.scn"]
+source_file="res://assets/kenney_nature-kit/Models/DAE format/bridge_woodRoundNarrow.dae"
+dest_files=["res://.godot/imported/bridge_woodRoundNarrow.dae-a83a3ad6f5c68da0707dfec68b017795.scn"]
 
 [params]
 

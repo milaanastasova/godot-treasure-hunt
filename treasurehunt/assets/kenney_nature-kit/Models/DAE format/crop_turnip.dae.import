@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://b11w8gim2bo1b"
-path="res://.godot/imported/crop_turnip.dae-3232ff42c37f3c5d5dbde084b775aea1.scn"
+path="res://.godot/imported/crop_turnip.dae-a0b114ca7dfde18e6c7be3eea7a95b69.scn"
 
 [deps]
 
-source_file="res://kenney_nature-kit/Models/DAE format/crop_turnip.dae"
-dest_files=["res://.godot/imported/crop_turnip.dae-3232ff42c37f3c5d5dbde084b775aea1.scn"]
+source_file="res://assets/kenney_nature-kit/Models/DAE format/crop_turnip.dae"
+dest_files=["res://.godot/imported/crop_turnip.dae-a0b114ca7dfde18e6c7be3eea7a95b69.scn"]
 
 [params]
 

@@ -46,7 +46,7 @@ extends CharacterBody3D
 
 var mouse_captured : bool = false
 var look_rotation : Vector2
-var move_speed : float = 2.0
+var move_speed : float = 3.0
 var freeflying : bool = false
 
 

@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://nljuoij4v7nf"
-path="res://.godot/imported/cliff_block_stone.dae-27c3d1507e5dd62c67d3466f762fbed1.scn"
+path="res://.godot/imported/cliff_block_stone.dae-f6014696424c5e881365337cfb3d5b97.scn"
 
 [deps]
 
-source_file="res://kenney_nature-kit/Models/DAE format/cliff_block_stone.dae"
-dest_files=["res://.godot/imported/cliff_block_stone.dae-27c3d1507e5dd62c67d3466f762fbed1.scn"]
+source_file="res://assets/kenney_nature-kit/Models/DAE format/cliff_block_stone.dae"
+dest_files=["res://.godot/imported/cliff_block_stone.dae-f6014696424c5e881365337cfb3d5b97.scn"]
 
 [params]
 

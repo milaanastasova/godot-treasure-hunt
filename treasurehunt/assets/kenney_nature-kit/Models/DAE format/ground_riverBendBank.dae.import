@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://de66awsu2qj3y"
-path="res://.godot/imported/ground_riverBendBank.dae-b801f2cebcc0e9c096ffcfa78f8d6ada.scn"
+path="res://.godot/imported/ground_riverBendBank.dae-04d96eb3a1694cc7a521827749266ef7.scn"
 
 [deps]
 
-source_file="res://kenney_nature-kit/Models/DAE format/ground_riverBendBank.dae"
-dest_files=["res://.godot/imported/ground_riverBendBank.dae-b801f2cebcc0e9c096ffcfa78f8d6ada.scn"]
+source_file="res://assets/kenney_nature-kit/Models/DAE format/ground_riverBendBank.dae"
+dest_files=["res://.godot/imported/ground_riverBendBank.dae-04d96eb3a1694cc7a521827749266ef7.scn"]
 
 [params]
 

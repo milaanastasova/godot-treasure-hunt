@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://b28brtjg7bv3a"
-path="res://.godot/imported/cliff_cornerInnerTop_rock.dae-7b7caf03b316ad13bbfc91c203b68bab.scn"
+path="res://.godot/imported/cliff_cornerInnerTop_rock.dae-cd49d09abf6fef261993f7b626558b44.scn"
 
 [deps]
 
-source_file="res://kenney_nature-kit/Models/DAE format/cliff_cornerInnerTop_rock.dae"
-dest_files=["res://.godot/imported/cliff_cornerInnerTop_rock.dae-7b7caf03b316ad13bbfc91c203b68bab.scn"]
+source_file="res://assets/kenney_nature-kit/Models/DAE format/cliff_cornerInnerTop_rock.dae"
+dest_files=["res://.godot/imported/cliff_cornerInnerTop_rock.dae-cd49d09abf6fef261993f7b626558b44.scn"]
 
 [params]
 

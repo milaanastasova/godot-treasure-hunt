@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://bxuj7iyqyr308"
-path="res://.godot/imported/crops_cornStageB.dae-cb6a023d0f1f0341675bd5f5cf63f542.scn"
+path="res://.godot/imported/crops_cornStageB.dae-26dd78b5a8b653f17f0d47e0f6903173.scn"
 
 [deps]
 
-source_file="res://kenney_nature-kit/Models/DAE format/crops_cornStageB.dae"
-dest_files=["res://.godot/imported/crops_cornStageB.dae-cb6a023d0f1f0341675bd5f5cf63f542.scn"]
+source_file="res://assets/kenney_nature-kit/Models/DAE format/crops_cornStageB.dae"
+dest_files=["res://.godot/imported/crops_cornStageB.dae-26dd78b5a8b653f17f0d47e0f6903173.scn"]
 
 [params]
 

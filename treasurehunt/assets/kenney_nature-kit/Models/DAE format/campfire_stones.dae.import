@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://puqytmfod64r"
-path="res://.godot/imported/campfire_stones.dae-581fa1576d43ae1d9004c16f8a1f75e9.scn"
+path="res://.godot/imported/campfire_stones.dae-ecd06f9c95795adde0f691a8790e63e5.scn"
 
 [deps]
 
-source_file="res://kenney_nature-kit/Models/DAE format/campfire_stones.dae"
-dest_files=["res://.godot/imported/campfire_stones.dae-581fa1576d43ae1d9004c16f8a1f75e9.scn"]
+source_file="res://assets/kenney_nature-kit/Models/DAE format/campfire_stones.dae"
+dest_files=["res://.godot/imported/campfire_stones.dae-ecd06f9c95795adde0f691a8790e63e5.scn"]
 
 [params]
 
