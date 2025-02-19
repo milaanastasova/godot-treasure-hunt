@@ -100,13 +100,13 @@ func restart_game():
 	if player:
 		player.global_position = player_start_position
 		player.velocity = Vector3.ZERO
-		print("✅ Player position reset:", player_start_position)
+		print("Player position reset:", player_start_position)
 	else:
-		print("❌ Error: Player node is missing!")
+		print("Error: Player node is missing!")
 
 	# **Clear old treasures and reset the treasure count**
 	var existing_treasures = get_tree().get_nodes_in_group("treasures")
-	print("🗑 Removing old treasures:", existing_treasures.size())
+	print("Removing old treasures:", existing_treasures.size())
 	for treasure in existing_treasures:
 		treasure.queue_free()
 
@@ -115,7 +115,7 @@ func restart_game():
 	print("🔄 Reset total treasures to:", total_treasures)
 
 	# **Respawn treasures**
-	print("✨ Respawning treasures...")
+	print("Respawning treasures...")
 	for pos in treasure_positions:
 		var new_treasure = treasure_scene.instantiate()
 		add_child(new_treasure)
@@ -131,7 +131,7 @@ func restart_game():
 	# **Reset the timer label to show the starting time**
 	update_timer_label()
 
-	print("📊 UI updated. Total treasures after restart:", total_treasures)
+	print("UI updated. Total treasures after restart:", total_treasures)
 
 	print("--- Game restarted successfully! ---\n")
 
