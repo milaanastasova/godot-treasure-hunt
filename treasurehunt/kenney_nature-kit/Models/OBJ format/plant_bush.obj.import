@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://nmmmvv2kam1"
+path="res://.godot/imported/plant_bush.obj-9f8cc5d38e33dcc0e6cea2decc2e4e8d.mesh"
+
+[deps]
+
+files=["res://.godot/imported/plant_bush.obj-9f8cc5d38e33dcc0e6cea2decc2e4e8d.mesh"]
+
+source_file="res://kenney_nature-kit/Models/OBJ format/plant_bush.obj"
+dest_files=["res://.godot/imported/plant_bush.obj-9f8cc5d38e33dcc0e6cea2decc2e4e8d.mesh", "res://.godot/imported/plant_bush.obj-9f8cc5d38e33dcc0e6cea2decc2e4e8d.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
