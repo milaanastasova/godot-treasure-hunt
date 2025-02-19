@@ -112,7 +112,7 @@ func restart_game():
 
 	# Reset treasure count
 	total_treasures = 3  # Reset total treasures back to 3
-	print("🔄 Reset total treasures to:", total_treasures)
+	print("Reset total treasures to:", total_treasures)
 
 	# **Respawn treasures**
 	print("Respawning treasures...")
