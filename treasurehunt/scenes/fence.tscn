@@ -1,0 +1,17 @@
+[gd_scene load_steps=3 format=3 uid="uid://chcupyvagwf0w"]
+
+[ext_resource type="ArrayMesh" uid="uid://c6wx12snomu6" path="res://assets/kenney_nature-kit/Models/OBJ format/fence_simple.obj" id="1_gwokq"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_0djhu"]
+size = Vector3(1, 0.4, 0.1)
+
+[node name="Fence" type="Node3D"]
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="."]
+mesh = ExtResource("1_gwokq")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="."]
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="StaticBody3D"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.192864, 0.462874)
+shape = SubResource("BoxShape3D_0djhu")
